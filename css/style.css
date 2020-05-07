@@ -16,3 +16,12 @@ body{
 .Parceiros{
     background-color: turquoise;
 }
+
+.Serviços{
+    background-color: violet;
+ }
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
